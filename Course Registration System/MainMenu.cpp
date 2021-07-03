@@ -44,6 +44,7 @@ void initLScore(listScore& lScore)
 
 
 //Nhap tay
+//drtytyty
 ScoreBoard insertStudentScore()
 {
 	ScoreBoard score;
